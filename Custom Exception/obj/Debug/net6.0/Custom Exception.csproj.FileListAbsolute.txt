@@ -1,0 +1,14 @@
+C:\Users\SightSpectrum\source\repos\Custom Exception\bin\Debug\net6.0\Custom Exception.exe
+C:\Users\SightSpectrum\source\repos\Custom Exception\bin\Debug\net6.0\Custom Exception.deps.json
+C:\Users\SightSpectrum\source\repos\Custom Exception\bin\Debug\net6.0\Custom Exception.runtimeconfig.json
+C:\Users\SightSpectrum\source\repos\Custom Exception\bin\Debug\net6.0\Custom Exception.dll
+C:\Users\SightSpectrum\source\repos\Custom Exception\bin\Debug\net6.0\Custom Exception.pdb
+C:\Users\SightSpectrum\source\repos\Custom Exception\obj\Debug\net6.0\Custom Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SightSpectrum\source\repos\Custom Exception\obj\Debug\net6.0\Custom Exception.AssemblyInfoInputs.cache
+C:\Users\SightSpectrum\source\repos\Custom Exception\obj\Debug\net6.0\Custom Exception.AssemblyInfo.cs
+C:\Users\SightSpectrum\source\repos\Custom Exception\obj\Debug\net6.0\Custom Exception.csproj.CoreCompileInputs.cache
+C:\Users\SightSpectrum\source\repos\Custom Exception\obj\Debug\net6.0\Custom Exception.dll
+C:\Users\SightSpectrum\source\repos\Custom Exception\obj\Debug\net6.0\refint\Custom Exception.dll
+C:\Users\SightSpectrum\source\repos\Custom Exception\obj\Debug\net6.0\Custom Exception.pdb
+C:\Users\SightSpectrum\source\repos\Custom Exception\obj\Debug\net6.0\Custom Exception.genruntimeconfig.cache
+C:\Users\SightSpectrum\source\repos\Custom Exception\obj\Debug\net6.0\ref\Custom Exception.dll
